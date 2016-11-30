@@ -7,6 +7,8 @@
 <title>Jack</title>
 </head>
 <body>
+
 <center><img src="/pic/123.jpg"></img></center>
+
 </body>
 </html>
